@@ -17,7 +17,7 @@ import java.util.concurrent.ScheduledExecutorService;
  *
  * @author Jaume
  */
-public class M9UF2A13 {
+public class Exercici1 {
 
     /**
      * @param args the command line arguments
